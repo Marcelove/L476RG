@@ -37,6 +37,7 @@ if it's dark, the floodlight will be activated.
 
 ____________________________________________________________________________________________________________________________________
 Authentication Process:
+
 After creating our project in Firebase, we built our database using the platform. Using an object called "Pessoa1," 
 we created both "Name" and "Password" records. The Android application connects to Firebase and retrieves the "Name" and "Password" 
 fields entered by the user in the application interface. These fields will be read as strings only after the login button is clicked.
